@@ -10,6 +10,7 @@ School Project In Webdevelopment
 ### Innehåll
 ### Layout
 ### Färgval
+
 ###### Backrund
 ####### Användningsområde
 ####### HEX
@@ -22,8 +23,13 @@ School Project In Webdevelopment
 
 ###### Huvudsaklig färg
 ####### Användningsområde
+####### HEX
+####### RGB
 
 ###### text
+####### Användningsområde
+####### HEX
+####### RGB
 ### typsnitt
 ### Mockup
 ### Tillgänglighet
