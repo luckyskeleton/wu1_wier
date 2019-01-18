@@ -11,19 +11,19 @@ Här hittar du planeringen
 ### Innehåll
 ???
 ### Layout
-Home
-Portfolio
-top navigering
-sidomeny
+Home,
+Portfolio,
+top navigering,
+sidomeny,
 content
 
 
 ### Färgval
-232442
-2D5567
-28A337
-6C39BF
-ECE7E7
+232442,
+2D5567,
+28A337,
+6C39BF,
+ECE7E7,
 Tror jag vill använda dessa färger
 ###### Backrund
 Har tänkt mig att använda en jpg bild
