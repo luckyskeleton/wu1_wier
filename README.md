@@ -7,11 +7,26 @@ School Project In Webdevelopment
 ## Backrund
 
 ## Plannering
+Här hittar du planeringen
 ### Innehåll
+???
 ### Layout
-### Färgval
+Home
+Portfolio
+top navigering
+sidomeny
+content
 
+
+### Färgval
+232442
+2D5567
+28A337
+6C39BF
+ECE7E7
+Tror jag vill använda dessa färger
 ###### Backrund
+Har tänkt mig att använda en jpg bild
 ####### Användningsområde
 ####### HEX
 ####### RGB
@@ -33,7 +48,7 @@ School Project In Webdevelopment
 ### typsnitt
 ### Mockup
 ### Tillgänglighet
-
+tänkt att den ska 
 ## Dokumentation
 ### Kod
 ```html
