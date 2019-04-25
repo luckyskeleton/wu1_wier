@@ -1,0 +1,73 @@
+
+
+body{
+
+    background: #E3E3E3 url("../img/northern-lights.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: #E3E3E3
+
+}
+
+/* Navbar container */
+.navbar {
+overflow: hidden;
+border: 3px solid transparent;
+border-radius: 15px;
+position: fixed;
+top: 0;
+left: 0;
+z-index: 99;
+background-color: #333;
+font-family: Arial;
+}
+
+/* Links inside the navbar */
+.navbar a {
+float: left;
+font-size: 27px;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+float: left;
+overflow: hidden;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+background-color: #2D5567;
+}
+
+.navbar a:hover {
+background-color: #2D5567;
+}
+
+.navbar .links a{
+float: left;
+color: white;
+padding: 14px 36px;
+text-decoration: none;
+font-size: 19px;
+font-family: sans-serif;
+}
+
+.navbar .links a:hover {
+background-color: #ddd;
+color: black;
+border: 3px solid transparent;
+border-radius: 15px;
+}
+
+.navbar .links a.active {
+background-color: #008080;
+color: white;
+border: 3px solid transparent;
+border-radius: 15px;
+}
