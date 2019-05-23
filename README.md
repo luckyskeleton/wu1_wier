@@ -48,7 +48,7 @@ Har tänkt mig att använda en jpg bild
 ### typsnitt
 ### Mockup
 ### Tillgänglighet
-tänkt att den ska 
+tänkt att den ska fungera på mobil också
 ## Dokumentation
 ### Kod
 ```html
