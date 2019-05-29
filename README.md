@@ -85,7 +85,11 @@ Jag har testat om sidan också fungerar på mindre skärmar och den fungerar vä
 Webbplatsen blev inte så som planerat då den inte blev riktigt färdig med alla länkar och delar i navigationsbaren. Hade jag gjort om det hade jag jobbat mer hämma och frågat tidigare när ett problem uppstått för att komma vidare och bli klar med sidan. Jag hade också gjort hemsidan mer tillgänglig för färgblinda personer, och personer med andra svårigheter.
 
 ##### Bilder:
-![alt-text](https://github.com/luckyskeleton/wu1_wier/blob/master/assets/img/html.PNG)
+![alt-text](https://github.com/luckyskeleton/wu1_wier/blob/master/assets/img/html.PNG " html med semikolon")
+
+![alt-text](https://github.com/luckyskeleton/wu1_wier/blob/master/assets/img/htmlerror.PNG "html utan semikolon")
+
+![alt-text](https://github.com/luckyskeleton/wu1_wier/blob/master/assets/img/Sk%C3%A4rmklipp.PNG "CSS")
 
 ### Kod
 ```html
