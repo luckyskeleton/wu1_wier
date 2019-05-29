@@ -59,7 +59,7 @@ Man började uppgiften med att planera hur webbplatsen skulle se ut, jag bestäm
 ##### HTML:
 När jag började att göra html koden för hemsidan hade jag redan ett problem med bakgrundsbilden då den inte var tillräckligt stor originellt och pixlarna blev för stora när man förstorade bilden.
 
-Efter att ha löst problemet fortsatte jag med koden och gjorde en navigationsbar och skrev lite text och rubriker med ”h1” och ”p” element. 
+Efter att ha löst problemet fortsatte jag med koden och gjorde en navigationsbar och skrev lite text och rubriker med ”h1” och ”p”. 
 
 Ett annat problem jag stötte på var när jag skulle införa text på hemsidan men jag kunde inte se den, då problemet var att jag råkat lägga texten bakom bakgrundsbilden.
 
@@ -84,6 +84,8 @@ Jag har testat om sidan också fungerar på mindre skärmar och den fungerar vä
 
 Webbplatsen blev inte så som planerat då den inte blev riktigt färdig med alla länkar och delar i navigationsbaren. Hade jag gjort om det hade jag jobbat mer hämma och frågat tidigare när ett problem uppstått för att komma vidare och bli klar med sidan. Jag hade också gjort hemsidan mer tillgänglig för färgblinda personer, och personer med andra svårigheter.
 
+##### Bilder:
+![alt-text](c./assets/img/html.PNG)
 
 ### Kod
 ```html
