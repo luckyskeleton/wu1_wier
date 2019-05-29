@@ -80,12 +80,22 @@ För funktionalitet har jag inte gjort mer än att göra den åtkomlig för läs
 När jag senare sökte igenom html koden och css:en på websidorna min lärare get oss för att hitta fel, websidorna hittade dom inga fel men det var en varning på html koden som gick att fixa genom att sätta in en semicolon.
 
 Jag har också testat om websidan/bloggen är kompatibel med Chrome, Firefox och Internet Explorer och den fungerade på alla tre. 
-Jag har testat om sidan också fungerar på mindre skärmar och den fungerar väldigt bra tills den blir mindre än 150px bred då navigations baren läger sig över rubriken och en liten bit av texten.
+Jag har testat om sidan också fungerar på mindre skärmar och den fungerar väldigt bra tills den blir mindre än 150px bred då navigations baren läger sig över rubriken och en liten bit av texten. Samma sak händer när den är mellan 630px - 600px bred.
 
 Webbplatsen blev inte så som planerat då den inte blev riktigt färdig med alla länkar och delar i navigationsbaren. Hade jag gjort om det hade jag jobbat mer hämma och frågat tidigare när ett problem uppstått för att komma vidare och bli klar med sidan. Jag hade också gjort hemsidan mer tillgänglig för färgblinda personer, och personer med andra svårigheter.
 
 ##### Bilder:
-![alt-text](https://github.com/luckyskeleton/wu1_wier/assets/img/html.PNG)
+![alt-text](https://github.com/luckyskeleton/wu1_wier/blob/master/assets/img/html.PNG " html med semikolon")
+
+![alt-text](https://github.com/luckyskeleton/wu1_wier/blob/master/assets/img/htmlerror.PNG "html utan semikolon")
+
+![alt-text](https://github.com/luckyskeleton/wu1_wier/blob/master/assets/img/Sk%C3%A4rmklipp.PNG "CSS")
+
+![alt-text](https://github.com/luckyskeleton/wu1_wier/tree/master/assets/img/responsivdator.PNG " responsiv för dator skärm ")
+
+![alt-text](https://github.com/luckyskeleton/wu1_wier/tree/master/assets/img/responsiv-ipad.PNG " responsiv för ipad ")
+
+![alt-text](https://github.com/luckyskeleton/wu1_wier/tree/master/assets/img/responsiv-iphone.PNG " responsiv för telefon ")
 
 ### Kod
 ```html
