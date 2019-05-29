@@ -93,9 +93,9 @@ Webbplatsen blev inte så som planerat då den inte blev riktigt färdig med all
 
 ![alt-text](https://github.com/luckyskeleton/wu1_wier/blob/master/assets/img/responsivdator.PNG " responsiv för dator skärm ")
 
-![alt-text](https://github.com/luckyskeleton/wu1_wier/tree/master/assets/img/responsiv-ipad.PNG " responsiv för ipad ")
+![alt-text](https://github.com/luckyskeleton/wu1_wier/blob/master/assets/img/responsiv-ipad.PNG " responsiv för ipad ")
 
-![alt-text](https://github.com/luckyskeleton/wu1_wier/tree/master/assets/img/responsiv-iphone.PNG " responsiv för telefon ")
+![alt-text](https://github.com/luckyskeleton/wu1_wier/blob/master/assets/img/responsiv-iphone.PNG " responsiv för telefon ")
 
 ### Kod
 ```html
