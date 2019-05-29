@@ -85,7 +85,7 @@ Jag har testat om sidan också fungerar på mindre skärmar och den fungerar vä
 Webbplatsen blev inte så som planerat då den inte blev riktigt färdig med alla länkar och delar i navigationsbaren. Hade jag gjort om det hade jag jobbat mer hämma och frågat tidigare när ett problem uppstått för att komma vidare och bli klar med sidan. Jag hade också gjort hemsidan mer tillgänglig för färgblinda personer, och personer med andra svårigheter.
 
 ##### Bilder:
-
+![alt-text](./assets/img/html.PNG)
 
 ### Kod
 ```html
